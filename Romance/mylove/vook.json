@@ -2,12 +2,34 @@
 "all_episode":
 [
 {
-"title" : "မတည်မြဲတဲ့ အချစ်\n၂၃.၄.၂၀၂၀",
-"status" : "Final Episode",
+"title" : "Ruturning GirlFriend",
+"status" : "Chaptr - (01)",
 "price" : "Free",
 "cover" : "https://2.bp.blogspot.com/-aBpdPIR8mwY/W4mVV8uIR-I/AAAAAAAALhY/UUkiy0nxMbk_Xq-yz8BcYHuf-Eqz3FPEACLcBGAs/s400/0.jpg",
-"link" : "<img src=\"https://steelcitystainless.files.wordpress.com/2021/02/ww-ep1-",
-"pages" : 21,
+"link" : "<img src=\"https://raw.githubusercontent.com/lazyboy88/AllVook/main/Romance/mylove/Chapter - 01/00",
+"pages" : 12,
+"format" : ".jpg\" width=\"100%\" />",
+"date" : "2021-03-15"
+}
+,
+{
+"title" : "Ruturning GirlFriend",
+"status" : "Chaptr - (02)",
+"price" : "Free",
+"cover" : "https://2.bp.blogspot.com/-aBpdPIR8mwY/W4mVV8uIR-I/AAAAAAAALhY/UUkiy0nxMbk_Xq-yz8BcYHuf-Eqz3FPEACLcBGAs/s400/0.jpg",
+"link" : "<img src=\"https://raw.githubusercontent.com/lazyboy88/AllVook/main/Romance/mylove/Chapter - 02/00",
+"pages" : 8,
+"format" : ".jpg\" width=\"100%\" />",
+"date" : "2021-03-15"
+}
+,
+{
+"title" : "Ruturning GirlFriend",
+"status" : "Chaptr - (03)",
+"price" : "Free",
+"cover" : "https://2.bp.blogspot.com/-aBpdPIR8mwY/W4mVV8uIR-I/AAAAAAAALhY/UUkiy0nxMbk_Xq-yz8BcYHuf-Eqz3FPEACLcBGAs/s400/0.jpg",
+"link" : "<img src=\"https://raw.githubusercontent.com/lazyboy88/AllVook/main/Romance/mylove/Chapter - 03/00",
+"pages" : 9,
 "format" : ".jpg\" width=\"100%\" />",
 "date" : "2021-03-15"
 }

@@ -1,8 +1,10 @@
 {
+"update" : "Update - 1 Episode Per Day",
+  
 "all_episode":
 [
 {
-"title" : "Dictatorship",
+"title" : "Translated : TunKyaw",
 "status" : "Chapter - (12)",
 "price" : "VIP",
 "cover" : "https://raw.githubusercontent.com/lazyboy88/AllVook/main/Dictatorship/EP.12/cover.jpg",
